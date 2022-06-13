@@ -11,7 +11,7 @@ Simply download the files, unzip and place ```markit.min.js``` in your Javascrip
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<title>Markdown Previewer</title>
 	<meta name="description" content="Markdown Previewer"/>
 	<meta name="author" content="ozboware">
