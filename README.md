@@ -1,7 +1,5 @@
 # MarkitJS
 
-## Demo
-
 Check out the [CodePen demo](https://codepen.io/ozboware/full/qBxLqMp) to see MarkitJS in action
 
 ## How to use
