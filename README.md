@@ -72,7 +72,7 @@ function anotherExample(firstLine, lastLine){
 
 inline code `<div></div>`
 
-[links](https://ozboware.co.uk)
+[links](https://milsaware.co.uk)
 
 # H1
 ## H2
@@ -83,4 +83,4 @@ inline code `<div></div>`
 
 ## License
 
-Copyright (c) 2022, Ozboware. (MIT License)
+Copyright (c) 2022, milsaware. (MIT License)
